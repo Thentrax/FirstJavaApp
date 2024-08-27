@@ -34,17 +34,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="24sp"
-            android:paddingHorizontal="8sp"
-            android:textStyle="bold"
+            android:textFontWeight="@integer/material_motion_duration_long_1"
             android:text="Ministro da Fazenda é alvo de memes nas redes sociais" />
-
-        <TextView
-            android:id="@+id/textView1"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textSize="14sp"
-            android:paddingHorizontal="8sp"
-            android:text="Principal voz do governo Lula na busca por práticas que aproximem a gestão das metas fiscais, o ministro da Fazenda, Fernando Haddad, tornou-se alvo tanto da oposição quanto das redes sociais, onde se multiplicam memes associados ao petista, chamado de 'Taxad' pelos internautas. O termo chegou a figurar entre os 'assuntos do momento' no X nesta terça-feira, enquanto usuários simpáticos ao ministro emplacaram a expressão 'Haddad é outro nível' na mesma lista. A contenda digital ganhou força com a aprovação no Congresso, na semana passada, do projeto que regulamenta a Reforma Tributária." />
 
     </LinearLayout>
 
